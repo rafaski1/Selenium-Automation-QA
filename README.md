@@ -1,2 +1,2 @@
 # Selenium-Automation-QA
-These test scripts will automate QA processes using selenium webdriver.
+A few scripts to automate test cases using selenium webdriver.
